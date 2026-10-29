@@ -1,3 +1,3 @@
-#Artemis Project
-nama = input("nama : ")
-print (f"halo {nama}")
+nama = input("Nama: ")
+print(f"Halo {nama}")
+print("Aku sedang belajar Git!")
